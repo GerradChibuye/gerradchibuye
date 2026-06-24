@@ -1,58 +1,91 @@
-Hello, I am Gerrad Chibuye
-I am an ambitious IT student building expertise in Systems, Networking, and Cloud Engineering, with a growing focus on DevOps and automation. Skilled in Linux administration, TCP/IP troubleshooting, Cisco Packet Tracer labs, and Python scripting, I combine hands-on learning with disciplined study to solve real-world IT challenges.
+# Hello, I'm Gerrad Chibuye (GC)
 
-My goal is to grow into a Systems and Cloud Engineer capable of contributing to enterprise and global teams, preferably in remote or hybrid environments. I actively pursue internships, volunteering, and entry-level roles to gain practical experience and strengthen my skills in infrastructure, cloud, and DevOps.
-I believe in continuous improvement (Kaizen) and deliberately document my learning through hands-on labs, structured notes, and practical projects. My long-term goal is to grow into a Systems and Cloud Engineer capable of contributing to major organizations, preferably in a remote or global setting..
+I am an ambitious IT student, technology educator, and community builder passionate about Networking, Systems Administration, Cloud Computing, and DevOps.
 
-Current Focus Areas
-- Networking Mastery
-  - IP Addressing & Subnetting  
-  - VLANs  
-  - Switching & Routing  
-  - TCP/IP Suite  
-  - Cisco Packet Tracer Labs  
+I am the founder of **GTech Academy**, a technology learning community dedicated to helping students and aspiring professionals develop practical skills in Networking, Python Programming, Linux, Cybersecurity, and Web Development. Through GTech Academy, I organize learning sessions, networking labs, and educational initiatives that promote hands-on learning and continuous growth.
 
-- Programming
-  - Python Fundamentals  
-  - Object-Oriented Programming  
-  - Building Clean, Documented Projects  
+I am also the founder of **Hustler's World**, a platform built around personal development, discipline, and continuous improvement inspired by the philosophy of Kaizen.
 
+Alongside leading these initiatives, I am actively building expertise in Linux administration, TCP/IP networking, Cisco technologies, cloud infrastructure, automation, and Python programming. I combine structured learning with practical projects and labs to strengthen my technical skills and solve real-world IT challenges.
 
- Learning Philosophy  
+## Career Vision
+
+My goal is to grow into a skilled Systems, Cloud, and DevOps Engineer capable of contributing to enterprise and global teams. I am particularly interested in infrastructure automation, cloud technologies, networking, and system reliability.
+
+I actively pursue opportunities to gain practical experience through projects, community leadership, volunteering, and professional development.
+
+## Current Focus Areas
+
+### Networking
+
+* IP Addressing & Subnetting
+* TCP/IP
+* VLANs
+* Switching & Routing
+* Cisco Packet Tracer Labs
+* Network Troubleshooting
+
+### Programming & Automation
+
+* Python Programming
+* Object-Oriented Programming
+* Automation Fundamentals
+* Building Clean and Documented Projects
+* Git & GitHub
+
+### Systems & Cloud
+
+* Linux Administration
+* Virtual Machines
+* System Fundamentals
+* Cloud Computing (Learning Path)
+* DevOps Fundamentals
+
+## Learning Philosophy
+
 I strongly believe that:
-> “A resilient mindset and disciplined growth create unstoppable progress.”
 
-I aim to build a career grounded in:
-- Professionalism  
-- Technical expertise  
-- Consistent self-improvement  
-- Strong problem-solving ability  
+> "A resilient mindset and disciplined growth create unstoppable progress."
 
+My professional journey is built on:
 
- Tools & Technologies
-- Python  
-- Cisco Packet Tracer  
-- Git & GitHub
-- Virtual machines
-- Linux
-- Cloud technologies (learning path ahead)
+* Professionalism
+* Technical Excellence
+* Continuous Improvement (Kaizen)
+* Strong Problem-Solving Skills
+* Lifelong Learning
 
+## Tools & Technologies
 
+* Python
+* Linux
+* Cisco Packet Tracer
+* Git & GitHub
+* Virtual Machines
+* Networking Technologies
+* Cloud Technologies (Learning)
 
- Featured Repositories  
-(These will be added soon as I build more projects.)
+## Featured Repositories
 
-- 🔹 networking-labs — My Packet Tracer configurations and networking practice  
-- 🔹 python-projects 
-— Small Python projects demonstrating
- my skills  
-- 🔹 notes-networking — Structured notes on networking fundamentals  
-- 🔹 notes-python — Notes from my Python learning journey  
+🔹 networking-labs — Packet Tracer labs and networking practice
 
+🔹 python-projects — Python projects and automation exercises
 
- Connect With Me
-- LinkedIn: https://www.linkedin.com/in/gerrad-chibuye-a9298b256?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- GitHub: [GerradChibuye](https://github.com/GerradChibuye)
+🔹 notes-networking — Structured networking notes and study resources
 
+🔹 notes-python — Notes from my Python learning journey
 
-Thank you for visiting my profile. I am committed to growth, discipline, and becoming a world-class IT professional.
+## Connect With Me
+
+LinkedIn:
+[www.linkedin.com/in/gerrad-chibuye-a9298b256](http://www.linkedin.com/in/gerrad-chibuye-a9298b256)
+
+GitHub:
+GerradChibuye
+
+Thank you for visiting my profile. I am committed to learning, building, innovating, and helping others grow through technology.
+
+**Founder — GTech Academy**
+**Founder — Hustler's World**
+
+**Learn • Build • Innovate**
