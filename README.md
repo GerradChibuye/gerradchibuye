@@ -1,79 +1,31 @@
-# Hello, I'm Gerrad Chibuye (GC)
+# Hi, I'm Gerrad Chibuye
 
-I am an ambitious IT student, technology educator, and community builder passionate about Networking, Systems Administration, Cloud Computing, and DevOps.
+## Technology Entrepreneur | Founder of GTech Academy
 
-I am the founder of **GTech Academy**, a technology learning community dedicated to helping students and aspiring professionals develop practical skills in Networking, Python Programming, Linux, Cybersecurity, and Web Development. Through GTech Academy, I organize learning sessions, networking labs, and educational initiatives that promote hands-on learning and continuous growth.
+I am an Information Technology student, technology entrepreneur, and founder of GTech Academy — an initiative focused on developing practical digital skills, building technology communities, and creating opportunities for the next generation of technology professionals.
 
-I am also the founder of **Hustler's World**, a platform built around personal development, discipline, and continuous improvement inspired by the philosophy of Kaizen.
+My journey combines technology, entrepreneurship, and leadership. While I enjoy understanding how systems work technically, my greatest passion is building people, teams, and organizations that use technology to solve real-world problems.
 
-Alongside leading these initiatives, I am actively building expertise in Linux administration, TCP/IP networking, Cisco technologies, cloud infrastructure, automation, and Python programming. I combine structured learning with practical projects and labs to strengthen my technical skills and solve real-world IT challenges.
+## What I Build
 
-## Career Vision
+* Technology education initiatives through GTech Academy
+* Practical networking and infrastructure learning resources
+* Documentation and learning systems for aspiring IT professionals
+* Technology projects focused on solving practical problems
 
-My goal is to grow into a skilled Systems, Cloud, and DevOps Engineer capable of contributing to enterprise and global teams. I am particularly interested in infrastructure automation, cloud technologies, networking, and system reliability.
+## Technical Interests
 
-I actively pursue opportunities to gain practical experience through projects, community leadership, volunteering, and professional development.
+* Computer Networking
+* Linux Systems Administration
+* Cloud Computing
+* Cybersecurity Fundamentals
+* DevOps Practices
+* Software Development
+* IT Infrastructure
 
-## Current Focus Areas
+## Current Focus
 
-### Networking
-
-* IP Addressing & Subnetting
-* TCP/IP
-* VLANs
-* Switching & Routing
-* Cisco Packet Tracer Labs
-* Network Troubleshooting
-
-### Programming & Automation
-
-* Python Programming
-* Object-Oriented Programming
-* Automation Fundamentals
-* Building Clean and Documented Projects
-* Git & GitHub
-
-### Systems & Cloud
-
-* Linux Administration
-* Virtual Machines
-* System Fundamentals
-* Cloud Computing (Learning Path)
-* DevOps Fundamentals
-
-## Learning Philosophy
-
-I strongly believe that:
-
-> "A resilient mindset and disciplined growth create unstoppable progress."
-
-My professional journey is built on:
-
-* Professionalism
-* Technical Excellence
-* Continuous Improvement (Kaizen)
-* Strong Problem-Solving Skills
-* Lifelong Learning
-
-## Tools & Technologies
-
-* Python
-* Linux
-* Cisco Packet Tracer
-* Git & GitHub
-* Virtual Machines
-* Networking Technologies
-* Cloud Technologies (Learning)
-
-## Featured Repositories
-
-🔹 networking-labs — Packet Tracer labs and networking practice
-
-🔹 python-projects — Python projects and automation exercises
-
-🔹 notes-networking — Structured networking notes and study resources
-
-🔹 notes-python — Notes from my Python learning journey
+Building GTech Academy into a technology institution that connects learners, professionals, and organizations through practical education, mentorship, and innovation.
 
 ## Connect With Me
 
@@ -86,6 +38,5 @@ GerradChibuye
 Thank you for visiting my profile. I am committed to learning, building, innovating, and helping others grow through technology.
 
 **Founder — GTech Academy**
-**Founder — Hustler's World**
 
 **Learn • Build • Innovate**
