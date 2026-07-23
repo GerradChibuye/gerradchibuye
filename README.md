@@ -1,41 +1,65 @@
-# Hi, I'm Gerrad Chibuye
+# Hi, I'm Gerrad Chibuye 
 
-## Technology Entrepreneur | Founder of GTech Academy
+## Technology Entrepreneur | IT Student | Founder of GTech Academy
 
-I am an Information Technology student, technology entrepreneur, and founder of GTech Academy — an initiative focused on developing practical digital skills, building technology communities, and creating opportunities for the next generation of technology professionals.
+I am an Information Technology student, technology entrepreneur, and founder of **GTech Academy** — a technology education initiative focused on developing practical digital skills, building technology communities, and helping aspiring professionals become industry-ready.
 
-My journey combines technology, entrepreneurship, and leadership. While I enjoy understanding how systems work technically, my greatest passion is building people, teams, and organizations that use technology to solve real-world problems.
+My journey combines **technology, entrepreneurship, education, and leadership**. I am passionate about understanding how systems work, building practical solutions, and creating learning environments where people can develop valuable technical skills.
 
-## What I Build
+##  What I Build
 
-* Technology education initiatives through GTech Academy
+* Technology education systems through **GTech Academy**
 * Practical networking and infrastructure learning resources
-* Documentation and learning systems for aspiring IT professionals
-* Technology projects focused on solving practical problems
+* Linux and cloud computing projects
+* Documentation and learning platforms for aspiring IT professionals
+* Software and infrastructure solutions focused on solving real-world problems
 
-## Technical Interests
+##  Technical Interests
 
 * Computer Networking
-* Linux Systems Administration
+* Linux System Administration
 * Cloud Computing
+* DevOps Engineering
 * Cybersecurity Fundamentals
-* DevOps Practices
+* Systems Engineering
 * Software Development
 * IT Infrastructure
 
-## Current Focus
+##  Current Learning & Projects
 
-Building GTech Academy into a technology institution that connects learners, professionals, and organizations through practical education, mentorship, and innovation.
+Currently exploring:
 
-## Connect With Me
+* Network engineering and infrastructure design
+* Cloud technologies and automation
+* DevOps practices and deployment workflows
+* Linux administration
+* Building practical technology solutions
+
+##  Mentorship & Community Building
+
+Beyond technology, I am passionate about helping students and young professionals develop career clarity, valuable skills, and professional growth.
+
+Through mentorship and community initiatives, I focus on:
+
+* Career development
+* Personal growth
+* Technical skill development
+* Learning systems
+* Professional networking
+
+## Vision
+
+My long-term vision is to build institutions and technology ecosystems that connect learners, professionals, and organizations through practical education, innovation, and opportunity creation.
+
+##  Connect With Me
 
 LinkedIn:
-[www.linkedin.com/in/gerrad-chibuye-a9298b256](http://www.linkedin.com/in/gerrad-chibuye-a9298b256)
+https://www.linkedin.com/in/gerrad-chibuye-a9298b256
 
 GitHub:
-GerradChibuye
+https://github.com/GerradChibuye
 
-Thank you for visiting my profile. I am committed to learning, building, innovating, and helping others grow through technology.
+---
 
 **Founder — GTech Academy**
 
