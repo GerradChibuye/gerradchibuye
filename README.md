@@ -1,6 +1,6 @@
 # Hi, I'm Gerrad Chibuye 
 
-## Technology Entrepreneur | Youth Personal Development Mentor with a mission of helping the first 5000 people become valuable by December 2030| Founder of GTech Academy
+## Technology Entrepreneur | Youth Personal Development Mentor with a mission of helping the first 5000 people become valuable| Founder of GTech Academy
 
 I am a technology entrepreneur, and founder of **GTech Academy** — a technology education initiative focused on developing practical digital skills, building technology communities, and helping aspiring professionals become industry-ready.
 
@@ -49,7 +49,7 @@ Through mentorship and community initiatives, I focus on:
 
 ## Vision
 
-My long-term vision is to build institutions and technology ecosystems that connect learners, professionals, and organizations through practical education, innovation, and opportunity creation. I aim to help the first 5000 people become valuable by December 2030 through personal development
+My long-term vision is to build institutions and technology ecosystems that connect learners, professionals, and organizations through practical education, innovation, and opportunity creation. I aim to help the first 5000 people become valuable through personal development
 
 ##  Connect With Me
 
