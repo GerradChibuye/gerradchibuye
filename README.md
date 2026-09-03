@@ -1,307 +1,182 @@
-# Hi, I'm Gerrad Chibuye 
+# Hi, I'm Gerrad Chibuye 
 
+### Backend Engineering → Infrastructure Engineering → Platform Engineering
 
-### Infrastructure Engineering | Networking | Linux | Cybersecurity | Technology Educator | Founder of GTech Academy
+I'm a technology professional in training focused on **backend engineering, computer networking, Linux, systems, infrastructure, and cybersecurity**.
 
+I enjoy understanding how systems work beneath the surface, building practical solutions, troubleshooting failures, and documenting what I learn.
 
-I'm building my career in **Infrastructure Engineering**, with my current technical focus on **Computer Networking** and strong foundations in **Linux, systems administration, and cybersecurity**.
-
-
-My long-term engineering path is:
-
+My current engineering direction is:
 
 ```text
-Networking
-    ↓
-Network Security & Cybersecurity
-    ↓
-Linux & Systems Administration
-    ↓
-Cloud Engineering
-    ↓
-DevOps
-    ↓
-Platform Engineering
-
-I believe in building strong technical foundations before moving higher up the infrastructure stack.
-
-Learn → Build → Break → Troubleshoot → Understand → Teach
-
- What I Build
-
-I use GitHub to document my engineering journey through practical projects, laboratories, experiments, documentation, and infrastructure work.
-
-My repositories are focused on learning by building, rather than simply collecting tutorials or certificates.
-
-Current areas include:
-
-Computer Networking
+Backend Engineering
+        ↓
 Linux & Systems
+        ↓
 Infrastructure Engineering
-Cybersecurity
-Automation
-Technical Education
- Networking
+        ↓
+Platform Engineering
+        ↓
+Distributed Systems
+        ↓
+IoT, Edge & Digital Agriculture
+```
 
-Networking is my current primary technical focus.
+I believe strong engineers are built through practice:
+
+**Learn → Build → Break → Troubleshoot → Understand → Document → Share**
+
+---
+
+##  What You'll Find Here
+
+This GitHub documents my progression through practical engineering work, including:
+
+* Backend applications and APIs
+* Linux and systems administration
+* Networking laboratories
+* Infrastructure projects
+* Cybersecurity experiments
+* Automation and scripting
+* Cloud and containerized environments
+* Technical documentation
+
+I want my repositories to demonstrate **what I can build, troubleshoot, and understand**, rather than simply list technologies I have studied.
+
+---
+
+## 🌐 Networking
+
+Networking is one of my core technical foundations.
 
 I'm developing practical knowledge in:
 
-TCP/IP
-IPv4
-IPv6
-Subnetting
-Ethernet
-MAC Addressing
-ARP
-Switching
-Routing
-Static Routing
-Dynamic Routing
-OSPF
-VLANs
-Inter-VLAN Routing
-DHCP
-DNS
-Network Troubleshooting
-Network Security
+* TCP/IP & Ethernet
+* IPv4 & IPv6
+* Subnetting & VLSM
+* Switching & routing
+* VLANs & inter-VLAN routing
+* DHCP & DNS
+* Static & dynamic routing
+* Network troubleshooting
+* Network security
 
-I practice networking using:
+Tools I use include **Cisco Packet Tracer, GNS3, and Wireshark**.
 
-Cisco Packet Tracer
-GNS3
-Wireshark
+My goal is to understand not only how to configure networks, but **how they operate, fail, and can be systematically troubleshot**.
 
-My objective is not simply to know networking concepts.
+---
 
-I want to understand how networks are designed, how they operate, how they fail, and how to troubleshoot them systematically.
-
- Linux & Systems
+##  Linux & Infrastructure
 
 Linux is a fundamental part of my infrastructure engineering development.
 
-I'm building practical knowledge in:
+I'm building practical experience with:
 
-Linux administration
-Filesystems
-Users & permissions
-Processes
-Services
-Networking
-Shell fundamentals
-System troubleshooting
-Server administration
-Virtualization
+* Linux administration
+* Filesystems
+* Users & permissions
+* Processes & services
+* Networking
+* Shell scripting
+* Server administration
+* Virtualization
+* Containers
+* Infrastructure troubleshooting
 
-Tools and environments include:
+---
 
-Ubuntu
-VirtualBox
-Linux servers
- Cybersecurity
+##  Backend & Programming
 
-I'm developing cybersecurity knowledge alongside networking and infrastructure.
+Backend engineering is my current development focus.
 
-Current areas include:
+Technologies I work with include:
 
-Cybersecurity fundamentals
-Network security
-Threats & vulnerabilities
-Common attack techniques
-Defensive security
-Security principles
-Security monitoring
-Infrastructure security
+* Python
+* Flask
+* SQL
+* HTML & CSS
+* Git & GitHub
+* REST APIs
+* Databases
 
-My approach to cybersecurity starts with understanding the underlying systems and networks that need to be protected.
+I use programming to build applications, APIs, automation tools, and infrastructure-related projects.
 
- Current Projects
-SysGuard
-Linux Infrastructure Monitoring & Remote Management Platform
+---
 
-SysGuard is an infrastructure monitoring and remote management platform designed around Linux servers.
+##  Cybersecurity
 
-The project is being developed as a practical infrastructure engineering project, focusing on:
+I study cybersecurity alongside networking and infrastructure.
 
-Linux
-Networking
-System administration
-Infrastructure monitoring
-Remote management
-Security
-Infrastructure automation
+My current areas include:
 
-Status: In Development
+* Security fundamentals
+* Network security
+* Threats & vulnerabilities
+* Authentication & access control
+* Defensive security
+* Security monitoring
+* Infrastructure security
 
- Networking Labs
+My approach is to understand the systems and networks first, then understand how they can be attacked and defended.
 
-A collection of practical networking laboratories covering progressively more advanced concepts.
+---
 
-Topics include:
+##  Featured Project
 
-IPv4 addressing
-Subnetting
-Switching
-Routing
-VLANs
-Inter-VLAN routing
-DHCP
-DNS
-Dynamic routing
-Network troubleshooting
-Network security
+### SysGuard
 
-The goal is to document both configuration and reasoning behind each laboratory.
+**Linux Infrastructure Monitoring & Remote Management Platform**
 
- Development
+SysGuard is my final-year project: a lightweight platform for monitoring and remotely managing Linux servers.
 
-Programming is currently a supporting skill within my infrastructure journey.
+It brings together areas I'm actively developing:
 
-I have experience with:
+**Linux • Networking • APIs • Monitoring • Security • Infrastructure**
 
-Python
-HTML
-CSS
-SQL
-Git
-GitHub
+**Status:** In Development
 
-I use programming primarily to support:
+---
 
-Infrastructure projects
-Automation
-Tooling
-System administration
-Technical problem solving
+## 🎓 GTech Academy
 
-I am not pursuing software development as my primary specialization.
+I'm the founder of **GTech Academy**, a free IT study and professional community.
 
- GTech Academy
+GTA provides an environment where learners and professionals can:
 
-I am the founder of GTech Academy, a technology education community focused on helping learners develop practical IT skills and become valuable professionals.
+* Learn together
+* Share knowledge
+* Build projects
+* Ask questions
+* Discuss technology careers
+* Learn from real-world experience
 
-GTech Academy currently focuses primarily on:
+**Learn • Build • Share • Innovate**
 
-IT Fundamentals
-Computer Networking
-Cybersecurity
+---
 
-Through the academy, I work on:
+## 🌱 Long-Term Direction
 
-Curriculum development
-Technical teaching
-Practical laboratories
-Community building
-Student support
-Instructor coordination
-Career development
+My long-term goal is to combine technology, engineering, entrepreneurship, and agriculture.
 
-My goal is to build an education platform that can scale beyond my individual capacity and help develop the next generation of African technology professionals.
+I am particularly interested in eventually applying:
 
- Current Learning Focus
-Primary
+**Infrastructure + IoT + Edge Computing + Data + Automation + AI**
 
-Computer Networking
+to solve practical problems in agricultural operations and build useful digital systems.
 
-Supporting Foundations
+For now, the priority is simple:
 
-Linux & Systems Administration
+> **Build strong foundations. Build real things. Understand how they work.**
 
-Cybersecurity & Network Security
+---
 
-Next
+## 🔗 Connect
 
-Cloud Engineering
+**LinkedIn:** [Gerrad Chibuye](https://www.linkedin.com/in/gerrad-chibuye-a9298b256)
 
-Later
+**GTech Academy:** [gtechacademyofficial@gmail.com](mailto:gtechacademyofficial@gmail.com)
 
-DevOps
+---
 
-Platform Engineering
-
-I deliberately follow this progression because I want to understand the infrastructure underneath cloud and platform technologies rather than simply learning how to operate high-level tools.
-
- Engineering Philosophy
-
-I believe technical competence is developed through deliberate practice.
-
-My preferred learning cycle is:
-
-Learn
-  ↓
-Build
-  ↓
-Break
-  ↓
-Troubleshoot
-  ↓
-Understand
-  ↓
-Document
-  ↓
-Teach
-  ↓
-Repeat
-
-When something breaks, I don't want to immediately look for the answer.
-
-I want to understand why it broke.
-
- Education & Community
-
-Beyond engineering, I'm passionate about technology education, community building, career development, and professional growth.
-
-Through GTech Academy and other initiatives, I work to help people:
-
-Develop practical technical skills
-Understand technology careers
-Build professional discipline
-Learn more effectively
-Become valuable in the technology industry
-
-One of my long-term missions is to help 5,000 people become valuable through practical education, mentorship, and professional development.
-
- Long-Term Direction
-
-My professional direction is:
-
-Infrastructure Engineering → Cloud Engineering → DevOps → Platform Engineering
-
-My immediate priority, however, is simple:
-
-Master Networking.
-
-Everything else comes after building that foundation properly.
-
- What You'll Find Here
-
-As I progress, this profile will increasingly contain:
-
-Networking laboratories
-Linux administration projects
-Infrastructure projects
-Cybersecurity experiments
-Automation tools
-Cloud projects
-DevOps projects
-Platform engineering work
-Technical documentation
-
-I want my GitHub profile to serve as evidence of what I can build, troubleshoot, and understand, not simply a list of technologies I claim to know.
-
-🔗 Connect With Me
-LinkedIn
-
-https://www.linkedin.com/in/gerrad-chibuye-a9298b256
-
-GitHub
-
-https://github.com/GerradChibuye
-
-GTech Academy
-
-gtechacademyofficial@gmail.com
-
-GTech Academy
-
-Learn • Build • Troubleshoot • Teach
+### Learn • Build • Innovate
