@@ -1,24 +1,28 @@
-# Hi, I'm Gerrad Chibuye 
+# Hi, I'm Gerrad Chibuye
 
-### Backend Engineering → Infrastructure Engineering → Platform Engineering
+### Networking → Linux & Systems → DevOps → Infrastructure Engineering → Platform Engineering
 
-I'm a technology professional in training focused on **backend engineering, computer networking, Linux, systems, infrastructure, and cybersecurity**.
+I'm a technology professional in training focused on **computer networking, Linux, systems, software engineering, infrastructure, DevOps, and cybersecurity**.
 
 I enjoy understanding how systems work beneath the surface, building practical solutions, troubleshooting failures, and documenting what I learn.
 
 My current engineering direction is:
 
 ```text
-Backend Engineering
-        ↓
+Networking
+      ↓
 Linux & Systems
-        ↓
+      ↓
+Software Engineering
+      ↓
+DevOps & Cloud
+      ↓
 Infrastructure Engineering
-        ↓
+      ↓
 Platform Engineering
-        ↓
+      ↓
 Distributed Systems
-        ↓
+      ↓
 IoT, Edge & Digital Agriculture
 ```
 
@@ -28,20 +32,21 @@ I believe strong engineers are built through practice:
 
 ---
 
-##  What You'll Find Here
+## What You'll Find Here
 
 This GitHub documents my progression through practical engineering work, including:
 
-* Backend applications and APIs
-* Linux and systems administration
 * Networking laboratories
+* Linux and systems administration
+* Backend applications and APIs
 * Infrastructure projects
-* Cybersecurity experiments
 * Automation and scripting
 * Cloud and containerized environments
+* DevOps and CI/CD
+* Cybersecurity experiments
 * Technical documentation
 
-I want my repositories to demonstrate **what I can build, troubleshoot, and understand**, rather than simply list technologies I have studied.
+I want my repositories to demonstrate **what I can build, operate, troubleshoot, and understand**, rather than simply list technologies I have studied.
 
 ---
 
@@ -67,7 +72,7 @@ My goal is to understand not only how to configure networks, but **how they oper
 
 ---
 
-##  Linux & Infrastructure
+## 🐧 Linux & Infrastructure
 
 Linux is a fundamental part of my infrastructure engineering development.
 
@@ -86,27 +91,34 @@ I'm building practical experience with:
 
 ---
 
-##  Backend & Programming
+## ⚙️ Software Engineering & DevOps
 
-Backend engineering is my current development focus.
+Software engineering supports my infrastructure and DevOps journey.
 
-Technologies I work with include:
+I'm developing skills in:
 
 * Python
-* Flask
+* Bash
 * SQL
-* HTML & CSS
-* Git & GitHub
 * REST APIs
+* Flask
+* Git & GitHub
 * Databases
+* Docker
+* Kubernetes
+* CI/CD
+* Infrastructure as Code
+* Cloud technologies
+* Automation
+* Monitoring & observability
 
-I use programming to build applications, APIs, automation tools, and infrastructure-related projects.
+I use software not only to build applications, but also to **automate infrastructure, interact with systems, and solve operational problems**.
 
 ---
 
-##  Cybersecurity
+## 🔐 Cybersecurity
 
-I study cybersecurity alongside networking and infrastructure.
+I study cybersecurity alongside networking, Linux, and infrastructure.
 
 My current areas include:
 
@@ -118,11 +130,11 @@ My current areas include:
 * Security monitoring
 * Infrastructure security
 
-My approach is to understand the systems and networks first, then understand how they can be attacked and defended.
+My approach is to understand the systems and networks first, then understand how they can be attacked, secured, monitored, and defended.
 
 ---
 
-##  Featured Project
+## 🚀 Featured Project
 
 ### SysGuard
 
@@ -157,7 +169,7 @@ GTA provides an environment where learners and professionals can:
 
 ## 🌱 Long-Term Direction
 
-My long-term goal is to combine technology, engineering, entrepreneurship, and agriculture.
+My long-term goal is to combine **technology, engineering, entrepreneurship, and agriculture**.
 
 I am particularly interested in eventually applying:
 
