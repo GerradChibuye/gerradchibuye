@@ -2,7 +2,7 @@
 
 ### Networking → Linux & Systems → DevOps → Infrastructure Engineering → Platform Engineering
 
-I'm a technology professional in training focused on **computer networking, Linux, systems, software engineering, infrastructure, DevOps, and cybersecurity**.
+I'm a technology professional in training focused on **computer networking, Linux, systems, infrastructure, DevOps, and cybersecurity**.
 
 I enjoy understanding how systems work beneath the surface, building practical solutions, troubleshooting failures, and documenting what I learn.
 
