@@ -1,8 +1,8 @@
 # Hi, I'm Gerrad Chibuye
 
-### Networking → Linux & Systems → DevOps → Infrastructure Engineering → Platform Engineering
+### Networking → Linux & Systems → Infrastructure Engineering → Distributed Systems → Edge Computing → IoT
 
-I'm a technology professional in training focused on **computer networking, Linux, systems, infrastructure, DevOps, and cybersecurity**.
+I'm a technology professional in training focused on **computer networking, Linux, systems, infrastructure, distributed systems, cybersecurity, and automation**.
 
 I enjoy understanding how systems work beneath the surface, building practical solutions, troubleshooting failures, and documenting what I learn.
 
@@ -13,18 +13,18 @@ Networking
       ↓
 Linux & Systems
       ↓
-Software Engineering
-      ↓
-DevOps & Cloud
-      ↓
 Infrastructure Engineering
-      ↓
-Platform Engineering
       ↓
 Distributed Systems
       ↓
-IoT, Edge & Digital Agriculture
+Edge Computing
+      ↓
+IoT Infrastructure
+      ↓
+Digital Agriculture
 ```
+
+Software engineering, cloud, automation, and DevOps practices support this journey where they are relevant to infrastructure problems.
 
 I believe strong engineers are built through practice:
 
@@ -38,11 +38,13 @@ This GitHub documents my progression through practical engineering work, includi
 
 * Networking laboratories
 * Linux and systems administration
+* Infrastructure engineering
+* Network and infrastructure monitoring
 * Backend applications and APIs
-* Infrastructure projects
 * Automation and scripting
-* Cloud and containerized environments
-* DevOps and CI/CD
+* Cloud and distributed systems
+* Containers and infrastructure tooling
+* DevOps practices where relevant
 * Cybersecurity experiments
 * Technical documentation
 
@@ -65,16 +67,17 @@ I'm developing practical knowledge in:
 * Static & dynamic routing
 * Network troubleshooting
 * Network security
+* High-availability networking
 
 Tools I use include **Cisco Packet Tracer, GNS3, and Wireshark**.
 
-My goal is to understand not only how to configure networks, but **how they operate, fail, and can be systematically troubleshot**.
+My goal is to understand not only how to configure networks, but **how they operate, fail, recover, and can be systematically troubleshot**.
 
 ---
 
-## 🐧 Linux & Infrastructure
+## 🐧 Linux & Systems
 
-Linux is a fundamental part of my infrastructure engineering development.
+Linux and systems knowledge form an important foundation for my infrastructure engineering development.
 
 I'm building practical experience with:
 
@@ -87,15 +90,47 @@ I'm building practical experience with:
 * Server administration
 * Virtualization
 * Containers
+* System troubleshooting
+* Infrastructure operations
+
+The goal is to understand systems at the operating-system and infrastructure level, not simply learn individual commands.
+
+---
+
+## 🏗️ Infrastructure Engineering
+
+My primary engineering direction is **infrastructure engineering**.
+
+I'm interested in building and operating systems that are:
+
+* Reliable
+* Observable
+* Available
+* Fault-tolerant
+* Secure
+* Automatable
+* Maintainable
+
+Areas I'm exploring include:
+
+* Infrastructure monitoring
+* High availability
+* Failure detection and recovery
+* Network infrastructure
+* Distributed systems
+* Cloud infrastructure
+* Infrastructure automation
+* Observability
+* Service reliability
 * Infrastructure troubleshooting
 
 ---
 
-## ⚙️ Software Engineering & DevOps
+## ⚙️ Software, Automation & DevOps
 
-Software engineering supports my infrastructure and DevOps journey.
+Software engineering and DevOps are supporting skills I use to solve infrastructure problems.
 
-I'm developing skills in:
+I'm developing practical skills in:
 
 * Python
 * Bash
@@ -105,14 +140,15 @@ I'm developing skills in:
 * Git & GitHub
 * Databases
 * Docker
-* Kubernetes
 * CI/CD
 * Infrastructure as Code
 * Cloud technologies
 * Automation
 * Monitoring & observability
 
-I use software not only to build applications, but also to **automate infrastructure, interact with systems, and solve operational problems**.
+I use software to **automate infrastructure, interact with systems, collect information, build tools, and solve operational problems**.
+
+The goal is not to build software for its own sake, but to use software effectively as part of engineering infrastructure.
 
 ---
 
@@ -138,13 +174,15 @@ My approach is to understand the systems and networks first, then understand how
 
 ### SysGuard
 
-**Linux Infrastructure Monitoring & Remote Management Platform**
+**High-Availability Network Infrastructure and Monitoring System**
 
-SysGuard is my final-year project: a lightweight platform for monitoring and remotely managing Linux servers.
+SysGuard is my final-year project focused on **high-availability network infrastructure, monitoring, failure detection, and recovery**.
 
-It brings together areas I'm actively developing:
+The project combines a GNS3-based network environment with a lightweight monitoring system to observe infrastructure availability, detect failures, record events, and evaluate recovery behaviour.
 
-**Linux • Networking • APIs • Monitoring • Security • Infrastructure**
+Current technologies and concepts include:
+
+**Networking • VRRP • GNS3 • VyOS • Python • SNMP • SQLite • Monitoring • High Availability**
 
 **Status:** In Development
 
@@ -173,9 +211,11 @@ My long-term goal is to combine **technology, engineering, entrepreneurship, and
 
 I am particularly interested in eventually applying:
 
-**Infrastructure + IoT + Edge Computing + Data + Automation + AI**
+**Infrastructure + Edge Computing + IoT + Data + Automation + AI**
 
 to solve practical problems in agricultural operations and build useful digital systems.
+
+The long-term vision is to develop infrastructure and technology capable of operating reliably beyond traditional office and data-centre environments — including **remote and agricultural environments**.
 
 For now, the priority is simple:
 
