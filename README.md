@@ -8,9 +8,7 @@ I enjoy understanding how infrastructure works beneath the surface: how networks
 
 My current engineering direction is focused on progressing from strong foundations in **networking and Linux into cloud infrastructure, infrastructure automation, high availability, observability, and reliable systems**.
 
-I believe in learning by building:
-
-**Learn • Build • Break • Troubleshoot • Understand • Document • Share**
+I believe in learning by building
 
 ---
 
