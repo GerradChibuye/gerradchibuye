@@ -1,4 +1,4 @@
-# Hi, I'm Gerrad Chibuye 👋
+# Hi, I'm Gerrad Chibuye 
 
 ### Infrastructure Engineer & Full-Stack Web Developer
 
